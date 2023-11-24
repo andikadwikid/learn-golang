@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main(){
-	fmt.Println("Andika")
-	fmt.Println("Dwiki")
-	fmt.Println("Darmawan")
+	fmt.Println(len("Andika"))
+	fmt.Println("Dwiki"[0])
+	fmt.Println("Darmawan"[1])
 }
